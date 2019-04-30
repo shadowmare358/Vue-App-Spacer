@@ -9,7 +9,9 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "core-js": "^2.6.5",
+    "lodash.debounce": "^4.0.8",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3"
   },
