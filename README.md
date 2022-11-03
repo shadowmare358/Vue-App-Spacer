@@ -1,4 +1,4 @@
-# spacer-hellomike
+# spacer-app
 Vue.JS Test
 
 ![alt text](https://i.imgur.com/LGEHVM5.png)
